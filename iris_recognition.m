@@ -1,7 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %             Enhanced Iris Recognition using Discrete Cosine Transform and Radon Transform               %                                                                               %
-%                                         ICETET-2015                                                     %
-%                     Mrinalini I.R, Pratusha B.P, K Manikantan, S Ramachandran                           %
+%                                  Mrinalini I.R, Pratusha B.P                                            %
 %                          M.S Ramaiah Institute of Technology, India                                     %
 %                                                                                                         %
 %                                                                                                         %
